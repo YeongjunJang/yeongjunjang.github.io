@@ -36,14 +36,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: left
         title: Seoul National University
         caption: 2017 - 2022
         sub_title: B.S. Electrical and Computer Engineering
         quote: >
           Fulfilled 21 months of mandatory military duting in South Korea from Aug 2018 - Mar 2020
        
-      - layout: center
+      - layout: left
         title: Seoul National University
         caption: 2022 - now
         sub_title: Combined M.S./Ph.D. student Electrical and Computer Engineering
