@@ -41,8 +41,6 @@ content:
       - layout: top-middle
         title: Path generating inverse Gaussian process regression for data-driven ultimate boundedness control of nonlinear systems
         link: https://ieeexplore.ieee.org/abstract/document/10535392
-    content:
-      - layout: top-middle
         title: Ring-LWE based encrypted controller with unlimited number of recursive multiplications and effect of error growth
         link: https://arxiv.org/abs/2406.14372
         
