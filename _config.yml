@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
  **Education**
 
  * (2017-2022) B.S. Electrical and Computer Engineering, Seoul National University, South Korea
-     * *Fulfilled 21 months of mandatory military duting in South Korea from Aug 2018 - Mar 2020*
+     * *Fulfilled 21 months of mandatory military duty in South Korea from Aug 2018 - Mar 2020*
  * (2022-now) Combined M.S./Ph.D. student Electrical and Computer Engineering, Seoul National University, South Korea
 
 
@@ -38,11 +38,12 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Path generating inverse Gaussian process regression for data-driven ultimate boundedness control of nonlinear systems
-        link: https://ieeexplore.ieee.org/abstract/document/10535392
-        title: Ring-LWE based encrypted controller with unlimited number of recursive multiplications and effect of error growth
-        link: https://arxiv.org/abs/2406.14372
+      - layout: left
+        description: | 
+         * [Path generating inverse Gaussian process regression for data-driven ultimate boundedness control of nonlinear systems](https://ieeexplore.ieee.org/abstract/document/10535392)
+           (LCSS 2024)
+         * [Ring-LWE based encrypted controller with unlimited number of recursive multiplications and effect of error growth](https://arxiv.org/abs/2406.14372)     
+           (TCNS 2024 under revision)
         
 # Footer
 footer_show_references: true
