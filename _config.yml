@@ -21,7 +21,8 @@ orcid_username: 0009-0007-0784-0212
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: I am a PH.D. Student at Electrical and Computer Engineering, [Seoul National University](https://www.snu.ac.kr/index.html)
+about_content: | # this will include new lines to allow paragraphs
+I am a PH.D. Student at Electrical and Computer Engineering, [Seoul National University](https://www.snu.ac.kr/index.html)
 
 content:
   - title: Projects # Title for the section
