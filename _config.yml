@@ -7,7 +7,6 @@ version: 2
 
 # Personal info
 name: Yeongjun Jang
-title: Ph.D. student at Seoul National University
 email: jangyj0512@snu.ac.kr / jangyj@cdsl.kr
 
 # Dark Mode (true/false/never)
@@ -52,8 +51,7 @@ content:
          * ["Learning with errors based dynamic encryption that discloses residue signal for anomaly detection"](https://arxiv.org/abs/2404.02574)   
            <u>Y. Jang</u>, J. Lee, J. Kim, and H. Shim  
            (arXiv 2024)
-
-content:    
+  
   - title: Talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
