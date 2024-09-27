@@ -38,15 +38,19 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         description: | 
-         * [Path generating inverse Gaussian process regression for data-driven ultimate boundedness control of nonlinear systems](https://ieeexplore.ieee.org/abstract/document/10535392)
-           (LCSS 2024)
-         * [Ring-LWE based encrypted controller with unlimited number of recursive multiplications and effect of error growth](https://arxiv.org/abs/2406.14372)     
-           (TCNS 2024 under revision)
+         * ["Path generating inverse Gaussian process regression for data-driven ultimate boundedness control of nonlinear systems"](https://ieeexplore.ieee.org/abstract/document/10535392)
+           <u>Y. Jang<u>, H. Chang, H. Park, and H. Shim (LCSS 2024)
+         * ["Ring-LWE based encrypted controller with unlimited number of recursive multiplications and effect of error growth"](https://arxiv.org/abs/2406.14372)     
+           <u>Y. Jang<u>, J. Lee, S. Min, H. Kwak, J. Kim, and S. Song (TCNS 2024 under revision)
+         * "Weighted Gaussian process regression: boosting the performance of Gaussian process regression using multiple hyperparameters"
+           H. Park, H. Chang, <u>Y. Jang<u>, and H. Shim (ACC 2024 under revision)
+         * ["Learning with errors based dynamic encryption that discloses residue signal for anomaly detection"](https://arxiv.org/abs/2404.02574)     
+           <u>Y. Jang<u>, J. Lee, J. Kim, and H. Shim (arXiv 2024)
         
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
