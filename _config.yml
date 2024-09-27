@@ -21,10 +21,9 @@ orcid_username: 0009-0007-0784-0212
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+about_content: 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+| # PH.D. Student at Electrical and Computer Engineering, Seoul National University, 2022 - now
 
 content:
   - title: Projects # Title for the section
