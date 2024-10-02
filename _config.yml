@@ -10,7 +10,7 @@ name: Yeongjun Jang
 email: jangyj0512@snu.ac.kr / jangyj@cdsl.kr
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  yj-jang-98
